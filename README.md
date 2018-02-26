@@ -20,10 +20,10 @@ https://radiant-lowlands-60546.herokuapp.com/
 
 ## Testing app
 To test the app type in city name you want to get weather forecast for.
-You can try with: Rome, Toronto, Lviv, Winnipeg.
-Reload page to see if the session was created and previously inquired cities are saved on the page.
-Also, open new tab in browser to see if user searched cities are stored in the session.
-(BUG) There is a bug regarding the session. When page is reloaded or new tab is opened, one of the previously inquired cities is added two times to the content.
+1. You can try with: Rome, Toronto, Lviv, Winnipeg.
+2. Reload page to see if the session was created and previously inquired cities are saved on the page.
+3. Also, open new tab in browser to see if user searched cities are stored in the session.
+4. (BUG) There is a bug regarding the session. When page is reloaded or new tab is opened, one of the previously inquired cities is added two times to the content.
 This bug is yet to be fixed.
 
 ## Thank you for using Weather-App
