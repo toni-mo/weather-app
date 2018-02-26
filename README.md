@@ -16,6 +16,7 @@ Run 'npm start' for a dev server. Navigate to `http://localhost:3000/`.
 
 ## Live app
 There is a live version of the weather app deployed on heroku. You can find it here:
+
 https://radiant-lowlands-60546.herokuapp.com/
 
 ## Testing app
