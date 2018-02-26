@@ -1,0 +1,9 @@
+# This is a .gitignore file
+# all development libraries should be included here to ignore
+
+
+# node_modules - development server side libraries that should be excluded
+node_modules/
+
+# jquery - front end library that should be excluded
+public/javascripts/jquery
